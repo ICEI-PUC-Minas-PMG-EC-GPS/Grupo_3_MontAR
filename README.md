@@ -1,11 +1,13 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14228706&assignment_repo_type=AssignmentRepo)
 ![ICEI](images/icei-pucminas.png)
 
-# Nome do projeto
+# MontAR
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O MontAR é uma plataforma online e aplicativo móvel que utiliza realidade aumentada para tornar a montagem de diversos produtos mais fácil e acessível. Seja para móveis, eletrodomésticos, artigos esportivos ou brinquedos, a plataforma oferece assistência visual em tempo real, guiando os usuários durante todo o processo de montagem.
 
-> Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
+Com o intuito de remover a complexidade e a falta de orientação adequada durante a montagem de diversos produtos, como móveis, eletrodomésticos e artigos esportivos, podem ser um obstáculo para os usuários. O MontAR busca superar esse desafio, proporcionando uma experiência interativa e visualmente assistida. 
+
+O objetivo geral do projeto é desenvolver uma plataforma de realidade aumentada abrangente que simplifique a montagem de uma variedade de produtos para os usuários. Para isto iremos criar um banco de dados diversificado abrangendo diferentes categorias de produtos, desenvolver um sistema de reconhecimento de peças para produtos diversos, integrar uma função de upload e reconhecimento de manuais de montagem para produtos variados e oferecer um guia passo a passo interativo que atenda às necessidades específicas de diferentes categorias de produtos. 
 
 ## Alunos integrantes da equipe
 
@@ -13,7 +15,8 @@
 * [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
 * [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
 * [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
+* [Oscar Oliveira Dias](https://github.com/oscar-pucmg
+)
 
 ## Professor responsável
 
