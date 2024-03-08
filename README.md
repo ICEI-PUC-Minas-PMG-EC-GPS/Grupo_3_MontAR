@@ -14,7 +14,7 @@ O objetivo geral do projeto é desenvolver uma plataforma de realidade aumentada
 * [Nome completo do aluno 1 (com link para Github)](https://github.com/aluno1)
 * [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
 * [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
-* [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
+* [Wander Lopes D'Oliveira](https://github.com/WanderLopes33)
 * [Oscar Oliveira Dias](https://github.com/oscar-pucmg
 )
 
