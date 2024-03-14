@@ -11,7 +11,7 @@ O objetivo geral do projeto é desenvolver uma plataforma de realidade aumentada
 
 ## Alunos integrantes da equipe
 
-* Luan Alison Cardoso de Carvalho](https://github.com/luanftti)
+* [Luan Alison Cardoso de Carvalho](https://github.com/luanftti)
 * [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
 * [Gabriel El Dine Breguez da Cunha](https://github.com/EldineGabriel)
 * [Wander Lopes D'Oliveira](https://github.com/WanderLopes33)
