@@ -34,7 +34,7 @@
 
 Projeto MontAR
 
-Principais etapas de etapas do projeto
+Principais etapas de execução do projeto
 
 > ![Exemplo de EAP](images/eap.jpg)
 
