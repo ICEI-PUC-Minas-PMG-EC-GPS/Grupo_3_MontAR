@@ -62,7 +62,7 @@
 > Devem ser fornecidos insights mensais sobre o andamento do projeto (últimos 30 dias).
 
 **Insight - Mês Março**
-![Insight - Mês Fevereiro](images/insights.png)
+![Insight - Mês Fevereiro](images/Insight_MAR.png)
 
 **Insight - Mês Abril**
 > Adicione aqui insights do mês de Abril.
