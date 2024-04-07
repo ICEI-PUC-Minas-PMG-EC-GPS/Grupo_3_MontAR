@@ -174,13 +174,13 @@ A tabela a seguir apresenta as restrições do projeto.
 
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
-| Hardware                |           |            |              |             |
-| Serviços de Rede        |           |            |              |             |
-| Hospedagem e Nuvem      |           |            |              |             |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
-| **Total Geral**         |           |            |              |             |
+| Recursos Humanos        | Valores referente a média de todos os cargOs| 2560 | R$37 |R$94.720,00 |
+| Hardware                | Servidores; Computadores Pessoais; Dispositivos Móveis;| 4 servidores; 4 Computadores; 2 Dispositivos moveis||R$131.334,00|
+| Serviços de Rede        | internet 1Gb/s | 2560 | R$14,6 | R$51.450,00|
+| Hospedagem e Nuvem      | Hospedagem VPS (Servidor Virtual Privado)| 2928 | R$7,30 | R$21.374,40|
+| Software de terceiros   | Licenças, iOS, PlayStore, Microsoft Store| 2928 ||R$704,27|
+| Serviços e treinamento  | Treinamento em Tecnologia Realidade aumentada| 2928 | R$23,25 | R$68.076,00|
+| **Total Geral**         |||| R$367.658,67|
 
 
 ## Estimativa de Prazo
