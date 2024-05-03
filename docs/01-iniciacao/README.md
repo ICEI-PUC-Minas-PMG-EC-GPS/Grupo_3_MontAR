@@ -31,43 +31,66 @@
 
 # Introdução
 
+No mundo cada vez mais digitalizado de hoje, a montagem de produtos pode ser um desafio para muitos usuários, desde a complexidade das instruções até a dificuldade em identificar e posicionar corretamente as peças. Para resolver esse problema, surge o projeto MontAR, uma iniciativa inovadora que visa revolucionar a experiência de montagem de produtos por meio da tecnologia de Realidade Aumentada (RA).
+
+O MontAR propõe o desenvolvimento de uma plataforma intuitiva e interativa que utiliza a RA para fornecer aos usuários orientações passo a passo durante a montagem de uma variedade de produtos, desde móveis e eletrônicos até brinquedos e equipamentos esportivos. Com a ajuda de dispositivos móveis ou específicos para RA, os usuários poderão visualizar virtualmente as peças e receber instruções precisas sobre sua montagem, tornando o processo mais simples, eficiente e acessível para todos.
+
+Além disso, o MontAR não se limita apenas à montagem de produtos convencionais. Sua funcionalidade de reconhecimento de peças e sua capacidade de identificar e interpretar manuais de montagem também o tornam uma ferramenta versátil para uma variedade de aplicativos, como assistência técnica remota, treinamento de montagem industrial e muito mais.
+
+Com o MontAR, a montagem de produtos deixa de ser uma tarefa complicada e se transforma em uma experiência intuitiva e envolvente, proporcionando aos usuários a confiança e o conhecimento necessários para concluir suas montagens com sucesso. Junte-se a nós nesta jornada para simplificar a montagem e elevar a experiência do usuário a novos patamares com a tecnologia de Realidade Aumentada do MontAR.
+
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A plataforma MontAR busca resolver o desafio comum enfrentado por muitos usuários ao montar produtos desmontados. Esse problema inclui a dificuldade em entender instruções complexas, a falta de familiaridade com as peças e a ordem correta de montagem, bem como a frustração decorrente de erros durante o processo de montagem. Ao oferecer orientações passo a passo através da Realidade Aumentada (RA), o MontAR visa simplificar e facilitar a montagem de uma variedade de produtos, tornando-a mais acessível, intuitiva e eficiente para todos os usuários.
 
-> Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
-> A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
-> Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
-> Nesta seção, deve ser descrito apenas o problema e seu contexto.
-> Soluções para o problema devem ser descritas na seção correspondente.
+## Objetivos do Projeto MontAR
 
-## Objetivos
+## Objetivo Geral:
+Desenvolver e implementar a plataforma MontAR para simplificar e aprimorar a experiência de montagem de produtos por meio da Realidade Aumentada.
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho.
-> Apresente um Objetivo Geral, sintetizado em uma única frase.
-> Apresente também 3 ou 4 objetivos específicos (sub-produtos do sistema ou objetivos extras que podem ser alcançados pela construção do software).
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
+## Objetivos Específicos:
+1. Criar uma interface intuitiva e amigável que permita aos usuários visualizar e interagir com instruções de montagem em tempo real.
+2. Desenvolver algoritmos de reconhecimento de peças para identificar e acompanhar componentes durante o processo de montagem.
+3. Integrar a plataforma com um banco de dados abrangente de manuais de montagem para uma ampla variedade de produtos.
+4. Otimizar a performance e a eficiência da aplicação para garantir uma experiência de usuário fluida e responsiva em diferentes dispositivos e ambientes.
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nesta parte do documento, serão abordadas as especificações técnicas do projeto MontAR, detalhando as técnicas e ferramentas utilizadas para sua implementação. As seguintes áreas serão exploradas:
 
-> Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para
-realizar as especificações do projeto.
+1. **Desenvolvimento de Software:** Descrição das linguagens de programação, frameworks e bibliotecas utilizadas para o desenvolvimento do frontend e backend da aplicação.
 
-## Critérios de Sucesso
+2. **Tecnologia de Realidade Aumentada:** Explicação das tecnologias de RA empregadas na plataforma MontAR, incluindo as ferramentas de desenvolvimento e os dispositivos compatíveis.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+3. **Reconhecimento de Imagem e Peças:** Detalhamento das técnicas e algoritmos utilizados para o reconhecimento de peças e identificação de componentes durante o processo de montagem.
 
-> Os critérios de sucesso de um projeto fornecem uma estrutura clara para avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
-> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
- 
+4. **Integração de Banco de Dados:** Descrição da estrutura do banco de dados utilizado para armazenar informações sobre produtos, manuais de montagem e outros dados relevantes.
+
+5. **Interface do Usuário e Experiência do Usuário (UI/UX):** Discussão sobre a criação de uma interface intuitiva e amigável para os usuários da plataforma MontAR, destacando as práticas de design e as ferramentas de prototipação utilizadas.
+
+6. **Testes e Qualidade de Software:** Explicação das estratégias de teste empregadas para garantir a qualidade e o desempenho da aplicação, incluindo testes de unidade, integração e aceitação do usuário.
+
+7. **Implantação e Gerenciamento de Ambientes:** Visão geral dos procedimentos de implantação da aplicação em ambientes de produção, bem como das ferramentas de gerenciamento de configuração e automação utilizadas.
+
+Essas áreas serão abordadas de forma detalhada, fornecendo uma compreensão abrangente das técnicas e ferramentas utilizadas na implementação da plataforma MontAR.
+
+
+## Critérios de Sucesso para o Projeto MontAR
+
+1. **Taxa de Adoção da Plataforma:**
+   - Medida pela quantidade de usuários ativos mensais ou pela porcentagem de usuários que realizam com sucesso a montagem de produtos utilizando a plataforma.
+
+2. **Satisfação do Usuário:**
+   - Avaliada por meio de pesquisas de satisfação, feedback direto dos usuários e análises de avaliações e comentários na loja de aplicativos ou site da plataforma.
+
+3. **Eficiência na Montagem:**
+   - Comparação do tempo médio de montagem utilizando a plataforma MontAR com métodos tradicionais de montagem.
+
+4. **Precisão do Reconhecimento de Peças:**
+   - Avaliada pela taxa de precisão na identificação de peças e pela redução de erros durante a montagem.
+
+5. **Retenção de Usuários:**
+   - Medida pela taxa de retenção de usuários, ou seja, a porcentagem de usuários que retornam e continuam utilizando a plataforma após a primeira experiência de montagem.
 ## Histórias de Usuários
 
 ......  ATUALIZE AS HISTÓRIAS DE USUÁRIOS ABAIXO (MÍNIMO 20) ......
