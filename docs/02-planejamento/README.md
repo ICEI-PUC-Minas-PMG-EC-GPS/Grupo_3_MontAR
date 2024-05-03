@@ -1,4 +1,4 @@
-.# Planejamento
+# Planejamento
 
 > A fase de planejamento na gerência de projetos é um momento onde os detalhes do projeto são minuciosamente definidos para garantir uma execução bem-sucedida. 
 > Durante essa etapa, os gerentes de projeto e suas equipes elaboram um plano abrangente que aborda aspectos como cronograma, orçamento, recursos necessários, riscos identificados e métodos de controle. 
@@ -110,7 +110,7 @@ Principais etapas de execução do projeto
 
 O plano de qualidade para o projeto MontAR visa garantir que o software desenvolvido atenda aos mais altos padrões de qualidade e satisfaça as necessidades e expectativas dos usuários. O plano inclui:
 
-> Utilização de metodologias ágeis, como Scrum, Test-Driven Development (TDD) e Continuous Integration/Continuous Deployment (CI/CD), para garantir uma abordagem iterativa e incremental no desenvolvimento do software.
+<p>Utilização de metodologias ágeis, como Scrum, Test-Driven Development (TDD) e Continuous Integration/Continuous Deployment (CI/CD), para garantir uma abordagem iterativa e incremental no desenvolvimento do software.<p>
 > Implementação de práticas de qualidade, como revisões de código, testes automatizados e monitoramento contínuo, para garantir a estabilidade, segurança e confiabilidade do software.
 > Adoção de padrões e normas de qualidade reconhecidos, como ISO 9241, ISO/IEC 25010 e IEEE 829, para orientar o desenvolvimento e avaliação do software.
 Estabelecimento de ambientes dedicados para atividades de qualidade, como testes, documentação, desenvolvimento e gerenciamento de configuração, com responsabilidades claras atribuídas a cada ambiente.
