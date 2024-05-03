@@ -106,16 +106,15 @@ Principais etapas de execução do projeto
 
 ## Plano de Qualidade
 
-[Plano_de_Qualidade](artefatos/ata-reuniao_2024-03-22.pdf)
+[Plano_de_Qualidade](Plano_de_Qualidade.pdf)
 
-O plano de qualidade para o projeto MontAR visa garantir que o software desenvolvido atenda aos mais altos padrões de qualidade e satisfaça as necessidades e expectativas dos usuários. O plano inclui:
-
-<p>Utilização de metodologias ágeis, como Scrum, Test-Driven Development (TDD) e Continuous Integration/Continuous Deployment (CI/CD), para garantir uma abordagem iterativa e incremental no desenvolvimento do software.<p>
-> Implementação de práticas de qualidade, como revisões de código, testes automatizados e monitoramento contínuo, para garantir a estabilidade, segurança e confiabilidade do software.
-> Adoção de padrões e normas de qualidade reconhecidos, como ISO 9241, ISO/IEC 25010 e IEEE 829, para orientar o desenvolvimento e avaliação do software.
+<p>O plano de qualidade para o projeto MontAR visa garantir que o software desenvolvido atenda aos mais altos padrões de qualidade e satisfaça as necessidades e expectativas dos usuários. 
+	O plano inclui:Utilização de metodologias ágeis, como Scrum, Test-Driven Development (TDD) e Continuous Integration/Continuous Deployment (CI/CD), para garantir uma abordagem iterativa e incremental no desenvolvimento do software.<p>
+	Implementação de práticas de qualidade, como revisões de código, testes automatizados e monitoramento contínuo, para garantir a estabilidade, segurança e confiabilidade do software.
+	Adoção de padrões e normas de qualidade reconhecidos, como ISO 9241, ISO/IEC 25010 e IEEE 829, para orientar o desenvolvimento e avaliação do software.
 Estabelecimento de ambientes dedicados para atividades de qualidade, como testes, documentação, desenvolvimento e gerenciamento de configuração, com responsabilidades claras atribuídas a cada ambiente.
-> Implementação de um checklist de qualidade com artefatos específicos, tipos de verificação, responsáveis, métricas aplicadas, datas de verificação e ações para não conformidades, garantindo uma abordagem estruturada e sistemática para garantir a qualidade do software.
-> Em resumo, o plano de qualidade para o projeto MontAR visa garantir que o software desenvolvido seja de alta qualidade, seguro, confiável e atenda às necessidades e expectativas dos usuários, seguindo as melhores práticas e padrões reconhecidos na indústria de desenvolvimento de software.
+	Implementação de um checklist de qualidade com artefatos específicos, tipos de verificação, responsáveis, métricas aplicadas, datas de verificação e ações para não conformidades, garantindo uma abordagem estruturada e sistemática para garantir a qualidade do software.
+	Em resumo, o plano de qualidade para o projeto MontAR visa garantir que o software desenvolvido seja de alta qualidade, seguro, confiável e atenda às necessidades e expectativas dos usuários, seguindo as melhores práticas e padrões reconhecidos na indústria de desenvolvimento de software.<p>
 
 > O Plano de Qualidade auxilia a garantir que as entregas do projeto atendam aos padrões de qualidade definidos. 
 > Este plano abrange atividades como definição de padrões, procedimentos de garantia de qualidade, critérios de aceitação e processos de monitoramento e controle da qualidade ao longo do ciclo de vida do projeto. 
