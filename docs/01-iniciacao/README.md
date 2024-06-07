@@ -93,85 +93,132 @@ Essas áreas serão abordadas de forma detalhada, fornecendo uma compreensão ab
    - Medida pela taxa de retenção de usuários, ou seja, a porcentagem de usuários que retornam e continuam utilizando a plataforma após a primeira experiência de montagem.
 ## Histórias de Usuários
 
-......  ATUALIZE AS HISTÓRIAS DE USUÁRIOS ABAIXO (MÍNIMO 20) ......
+# Histórias de Usuário para o Projeto MontAR
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+1. **UF: Registro na Plataforma**
+   - Como usuário final, quero me registrar na plataforma para acessar todas as funcionalidades e instruções de montagem.
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+2. **UF: Login na Plataforma**
+   - Como usuário final, quero fazer login na plataforma para acessar meu perfil e histórico de montagens.
 
-> Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. 
-> As Histórias de Usuário consistem em uma ferramenta importante para a compreensão e elicitação dos requisitos.
-> Defina atores (ou personas), se for o caso, um administrador para criação das histõrias de usuário.
-> As histórias de usuário posteriormente devem ser utilizadas para preenchimento dos Requisitos Funcionais.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+3. **UF: Navegação Intuitiva**
+   - Como usuário final, quero uma interface intuitiva para encontrar facilmente as instruções de montagem de que preciso.
+
+4. **UF: Upload de Manuais de Montagem**
+   - Como usuário final, quero fazer upload de manuais de montagem para obter instruções detalhadas e personalizadas.
+
+5. **UF: Identificação de Peças via Câmera**
+   - Como usuário final, quero usar a câmera do meu celular para identificar peças, facilitando o processo de montagem.
+
+6. **UF: Instruções Passo a Passo em AR**
+   - Como usuário final, quero visualizar instruções passo a passo em realidade aumentada para montar o produto corretamente.
+
+7. **UF: Receber Notificações de Atualizações**
+   - Como usuário final, quero receber notificações de atualizações e novos manuais disponíveis na plataforma.
+
+8. **UF: Suporte ao Usuário**
+   - Como usuário final, quero acessar um suporte ao usuário eficiente para tirar dúvidas durante a montagem.
+
+9. **TEC: Acesso a Tutoriais Avançados**
+   - Como técnico, quero acessar tutoriais avançados e técnicas específicas para melhorar minha eficiência de montagem.
+
+10. **TEC: Ferramentas de Diagnóstico**
+    - Como técnico, quero ferramentas de diagnóstico para identificar problemas comuns durante a montagem e solucioná-los rapidamente.
+
+11. **TEC: Relatórios de Montagem**
+    - Como técnico, quero gerar relatórios de montagem para documentar o processo e garantir a conformidade com os padrões.
+
+12. **TEC: Compartilhamento de Experiência**
+    - Como técnico, quero compartilhar minha experiência e dicas com outros usuários na plataforma.
+
+13. **ADM: Gerenciamento de Usuários**
+    - Como administrador, quero gerenciar usuários (criar, editar, excluir) para manter a plataforma organizada e segura.
+
+14. **ADM: Moderação de Conteúdo**
+    - Como administrador, quero moderar os manuais e tutoriais enviados pelos usuários para garantir a qualidade do conteúdo.
+
+15. **ADM: Análise de Dados de Uso**
+    - Como administrador, quero analisar dados de uso da plataforma para entender o comportamento dos usuários e melhorar o serviço.
+
+16. **ADM: Configuração de Notificações**
+    - Como administrador, quero configurar notificações para manter os usuários informados sobre atualizações e novidades.
+
+17. **GP: Monitoramento do Progresso do Projeto**
+    - Como gerente de projeto, quero monitorar o progresso do desenvolvimento da plataforma para garantir que estamos no cronograma.
+
+18. **GP: Atribuição de Tarefas**
+    - Como gerente de projeto, quero atribuir tarefas à equipe de desenvolvimento para garantir que todos os aspectos do projeto sejam cobertos.
+
+19. **GP: Avaliação da Qualidade do Produto**
+    - Como gerente de projeto, quero avaliar a qualidade do produto durante o desenvolvimento para garantir que ele atenda aos requisitos.
+
+20. **GP: Planejamento de Lançamento**
+    - Como gerente de projeto, quero planejar o lançamento da plataforma para garantir uma transição suave e uma boa experiência do usuário.
+
 
 ## Requisitos Preliminares
 
-> Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
-> 
-> ***A quantidade mínima de requisitos a serem preenchidos nas seções abaixo não incluem os exemplos previamente fornecidos.***
+1. **Registro e Autenticação de Usuários**
+   - Permitir que usuários se registrem e façam login na plataforma, garantindo a segurança e privacidade das informações pessoais.
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+2. **Upload e Processamento de Manuais**
+   - Oferecer uma funcionalidade que permita aos usuários fazer upload de manuais de montagem, com capacidade de processamento automático para identificar peças e etapas de montagem.
+
+3. **Instruções de Montagem em Realidade Aumentada**
+   - Desenvolver uma funcionalidade de realidade aumentada que forneça instruções passo a passo de montagem, utilizando a câmera do dispositivo móvel para identificar peças e orientar o usuário.
+
+4. **Interface de Usuário Intuitiva**
+   - Criar uma interface de usuário intuitiva e amigável, que permita fácil navegação e acesso rápido às funcionalidades principais da plataforma.
+
+5. **Notificações e Suporte ao Usuário**
+   - Implementar um sistema de notificações para informar os usuários sobre atualizações e novos manuais, além de oferecer um suporte eficiente para dúvidas e problemas durante a montagem.
 
 
 ### Requisitos Funcionais
 
-......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 20) ......
+| ID    | Descrição do Requisito                                  | Prioridade |
+|-------|---------------------------------------------------------|------------|
+| RF01  | O sistema deve permitir que os usuários se registrem com um endereço de e-mail e senha. | ALTA       |
+| RF02  | O sistema deve permitir que os usuários façam login usando suas credenciais. | ALTA       |
+| RF03  | O sistema deve permitir que os usuários recuperem suas senhas esquecidas via e-mail. | MÉDIA      |
+| RF04  | O sistema deve permitir que os usuários façam upload de manuais de montagem. | ALTA       |
+| RF05  | O sistema deve processar manuais de montagem e identificar as peças e etapas de montagem. | ALTA       |
+| RF06  | O sistema deve permitir que os usuários visualizem os manuais de montagem carregados. | ALTA       |
+| RF07  | O sistema deve permitir que os usuários utilizem a câmera do dispositivo móvel para identificar peças. | ALTA       |
+| RF08  | O sistema deve fornecer instruções de montagem em realidade aumentada. | ALTA       |
+| RF09  | O sistema deve notificar os usuários sobre atualizações e novos manuais. | MÉDIA      |
+| RF10  | O sistema deve oferecer suporte ao usuário via chat ou e-mail. | MÉDIA      |
+| RF11  | O sistema deve permitir que os usuários forneçam feedback sobre os manuais e instruções. | MÉDIA      |
+| RF12  | O sistema deve permitir que os usuários visualizem e editem seu perfil. | MÉDIA      |
+| RF13  | O sistema deve registrar e exibir o histórico de montagens do usuário. | MÉDIA      |
+| RF14  | O administrador deve poder gerenciar os manuais e tutoriais carregados. | ALTA       |
+| RF15  | O administrador deve poder moderar e aprovar conteúdos enviados pelos usuários. | ALTA       |
+| RF16  | O sistema deve fornecer relatórios de análise de uso para o administrador. | MÉDIA      |
+| RF17  | O administrador deve poder configurar notificações para os usuários. | MÉDIA      |
+| RF18  | O gerente de projeto deve poder atribuir tarefas à equipe de desenvolvimento. | MÉDIA      |
+| RF19  | O gerente de projeto deve poder monitorar o progresso do desenvolvimento. | MÉDIA      |
+| RF20  | O gerente de projeto deve poder planejar o lançamento da plataforma. | MÉDIA      |
 
-A tabela a seguir apresenta os requisitos funcionais do projeto. 
+## Requisitos Não Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+| ID    | Descrição do Requisito                                  | Prioridade |
+|-------|---------------------------------------------------------|------------|
+| RNF01 | O sistema deve ter um tempo de resposta inferior a 3 segundos para qualquer ação do usuário. | ALTA       |
+| RNF02 | O sistema deve estar disponível 99.9% do tempo, 24/7.   | ALTA       |
+| RNF03 | O sistema deve ser escalável para suportar até 1 milhão de usuários simultâneos. | ALTA       |
+| RNF04 | O sistema deve garantir a segurança dos dados do usuário através de criptografia e boas práticas de segurança. | ALTA       |
+| RNF05 | O sistema deve ser fácil de usar e intuitivo, com uma curva de aprendizado mínima. | MÉDIA      |
 
-### Requisitos Não Funcionais
+## Restrições
 
-......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
+| ID    | Descrição do Requisito                                  | Prioridade |
+|-------|---------------------------------------------------------|------------|
+| R01   | O orçamento total para o desenvolvimento e lançamento do sistema não deve exceder $500,000. | ALTA       |
+| R02   | O projeto deve ser concluído dentro de 6 meses.         | ALTA       |
+| R03   | O sistema deve estar em conformidade com todas as regulamentações de proteção de dados (LGPD/GDPR). | ALTA       |
+| R04   | O sistema deve ser compatível com dispositivos móveis Android e iOS. | ALTA       |
+| R05   | O sistema deve integrar-se com serviços de armazenamento em nuvem como Google Drive e Dropbox. | MÉDIA      |
 
-A tabela a seguir apresenta os requisitos não funcionais do projeto. 
-
-|ID     | Descrição do Requisito                                            |Prioridade |
-|-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
-
-
-### Restrições
-
-......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
-
-A tabela a seguir apresenta as restrições do projeto. 
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 # Partes Interessadas
 
