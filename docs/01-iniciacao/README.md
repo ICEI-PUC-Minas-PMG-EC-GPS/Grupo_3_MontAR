@@ -359,32 +359,42 @@ Essas áreas serão abordadas de forma detalhada, fornecendo uma compreensão ab
 
 ## Estimativa de Prazo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
-> Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
-> Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
-
-> Indique:
-> * Prazo previsto (em horas) 
-> * Data de início
-> * Data de término
+Data de Início: 01/03/2024
+Data de Conclusão: 07/06/2024
+Duração Total: 99 dias úteis (aproximadamente 14 semanas)
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O grupo optou por adotar uma abordagem ágil para o desenvolvimento do projeto, especialmente baseada na metodologia Scrum. Abaixo está uma visão geral do nosso processo de trabalho, divisão de papéis e tarefas, e as ferramentas que utilizamos:
 
-> Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
->
-> Coloque detalhes sobre o processo utilizado e a implementação do Framework Scrum seguido pelo grupo. 
-> O grupo deverá gerenciar as tarefas utilizando o GitHub Project para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-> 
-> **Links Úteis**:
-> - [Github Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
-> - [O que é o GitHub Projects? | Guia de Iniciantes](https://www.youtube.com/watch?v=vxYTpsFKdiQ&ab_channel=JulioArruda)
-> - [Introduction to GitHub Project Boards](https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&ab_channel=MickeyGousset)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+### Processo de Trabalho:
+
+1. **Planejamento da Sprint:**
+   - Revisão do backlog do produto para selecionar os itens a serem trabalhados na próxima sprint.
+   - Estimativa de esforço para cada item do backlog selecionado.
+
+2. **Sprint:**
+   - Duração de duas semanas.
+   - Atribuição de tarefas aos membros da equipe com base em suas habilidades e disponibilidade.
+   - Realização de reuniões diárias de stand-up para manter a equipe sincronizada.
+
+3. **Revisão da Sprint:**
+   - Ao final de cada sprint, realizamos uma reunião para revisar o trabalho concluído e demonstrar as funcionalidades desenvolvidas.
+   - O cliente é convidado a fornecer feedback e sugestões para melhorias.
+
+### Papéis e Tarefas:
+
+- **Scrum Master:** Líder da equipe responsável por garantir que a metodologia ágil seja seguida adequadamente.
+- **Product Owner:** Representante do cliente, responsável por definir as prioridades do backlog do produto.
+- **Desenvolvedores:** Responsáveis pela implementação das funcionalidades.
+- **Testadores:** Encarregados de realizar testes de qualidade em todas as entregas.
+
+### Ferramentas Utilizadas:
+
+- **GitHub:** Para gerenciamento do backlog e das tarefas de desenvolvimento.
+- **Slack:** Para comunicação interna da equipe.
+- **Google Drive:** Para compartilhamento de documentos e arquivos relevantes.
+
 
 ## Divisão de Papéis
 
@@ -395,23 +405,12 @@ Essas áreas serão abordadas de forma detalhada, fornecendo uma compreensão ab
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
-> Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
-> Todas as ferramentas utilizadas devem ser listadas.
-> Qualquer tipo de ferramenta que for utilizada para construção de um artefato deve ser identificada, uma vez que podem ser necessárias alterações.
-> A necessidade de uso de licenças e possíveis custos relacionados devem ser indicados.
-
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
-| Quadro Kanban         | Github             | https://github.com/XXXXXXX | Centralização e organização do projeto no próprio repositório. |
-| Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
-| Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
-| Documentos Textuais   | LibreOffice Writer | N/A                        |               |
-| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-| EAP / WBS             | | | |
-| Cronograma do Projeto | | | |
-| Matriz RACI           | | | |
+| Quadro Kanban         | GitHub Projects    | [Link]([https://github.com/XXXXXXX](https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/13)) | O GitHub Projects oferece uma forma integrada de gerenciar tarefas diretamente do repositório de código, permitindo uma maior organização e acompanhamento das atividades do projeto. Além disso, é uma ferramenta gratuita e de fácil acesso para toda a equipe. |
+| Repositório de código | GitHub             | [Link]([https://github.com/XXXXXXX](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/Grupo_3_MontAR)) | O GitHub é uma plataforma de hospedagem de código-fonte e controle de versão baseada em Git. Ele oferece recursos como controle de versão, colaboração e integração contínua, sendo amplamente utilizado na comunidade de desenvolvimento de software devido à sua confiabilidade e recursos avançados. |
+| Protótipo Interativo  | Figma              | [Link]([https://figma.com/XXXXXXX](https://www.figma.com/design/n24hhGG8l9QOnlvYHeWFAw/Prototyping-in-Figma?node-id=0-1))  | O Figma é uma ferramenta de design de interface de usuário baseada em nuvem, que permite a criação de protótipos interativos e colaborativos. Ele oferece uma ampla gama de recursos para design de interfaces, incluindo prototipagem, criação de wireframes e colaboração em tempo real, tornando-o ideal para o desenvolvimento de projetos de software. |
+
 
 # Documentos
 
