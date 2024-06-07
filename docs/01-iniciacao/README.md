@@ -222,35 +222,139 @@ Essas áreas serão abordadas de forma detalhada, fornecendo uma compreensão ab
 
 # Partes Interessadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+## Matriz RACI do Projeto MontAR
 
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
+**Projeto:** MontAR  
+**Gerente de Projeto:** Luan Alison Cardoso de Carvalho  
+
+### Matriz de Responsabilidades (RACI)
+
+| Atividade                                | Gerente | Equipe gerenciada | Patrocinador |
+|------------------------------------------|---------|-------------------|--------------|
+| Iniciar o projeto                        | A       | R                 | C            |
+| Definir o escopo                         | I       | R                 | C            |
+| Elaborar o EAP                           | I       | R                 | I            |
+| Elaborar o cronograma                    | R       | C                 | I            |
+| Planejar os riscos                       | A       | R                 |              |
+| Planejar a qualidade                     | A       | R                 | C            |
+| Planejar o projeto                       | A       | R                 | I            |
+| Monitorar o projeto                      | A       | R                 | I            |
+| Encerrar o projeto                       | A       | R                 | C            |
+| Realizar garantia da qualidade           | A       | R                 | C            |
+| Realizar controle da qualidade           | A       | R                 | I            |
+| Desenvolvimento da funcionalidade de AR  | A       | R                 | I            |
+| Implementação do espaço para inserção das Sketchs de montagem | I | R | C |
+| Inserção de Sketchs                      | I       | R                 | C            |
+| Testes de usabilidade                    | C       | R                 | A            |
+| Criação do sistema de compartilhamento de Sketchs por meio de grupos | A | R | C |
+
+### Recursos Humanos
+
+| Nome       | Papel             | Nível de Proficiência | Treinamentos Necessários         |
+|------------|-------------------|-----------------------|----------------------------------|
+| Oscar Dias | Dev. Front-end    | Ótimo                 | -                                |
+| Luan       | Gerente           | Ok                    | Gestão de equipes e PMBOK        |
+| Wander     | Dev. Back-end     | Ótimo                 | -                                |
+| Gabriel    | Ger. Fin.         | OK                    | Gestão financeira                |
+| Wander     | Desen. AR         | Baixo                 | Treinamento em AR                |
+| Oscar      | Desen. AR         | Baixo                 | Treinamento em AR                |
+
+### Legenda
+
+- **Papel:** Papel desempenhado no projeto. O mesmo recurso pode desempenhar mais de um papel em um projeto, sendo que para cada papel (analista, desenvolvedor, tester, etc.) pode ter nível de proficiência diferente. A matriz deve ser detalhada por papel a fim de identificar as necessidades de treinamento.
+- **Nível de Proficiência:** Refere-se à capacidade de desempenhar as atividades para as quais possui responsabilidade de executor. Deve ser classificado em Baixo, Suficiente, Bom.
+
 
 # Estimativa de Custo e Prazo
 
 ## Estimativa de Custo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+# Solicitação de Compra nº 40028922 – 10/05/2024
 
-> A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
-> Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
-> Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. 
-> A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
-> Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
+### Descrição resumida e quantidade:
+1. **5 Computadores para desenvolvimento de software** - Necessários para equipar a equipe de desenvolvimento com hardware capaz de suportar demandas intensivas de software.
+2. **20 Licenças de softwares diversos** - Necessárias para fornecer as ferramentas de software requeridas para o desenvolvimento e colaboração.
+3. **1 Serviço de Hospedagem e Infraestrutura de Nuvem** - Essencial para o desenvolvimento, teste e implantação da aplicação.
+4. **1 Impressora multifuncional** - Para apoiar os processos burocráticos e administrativos do projeto.
 
-......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
+### Descrição detalhada dos itens a serem adquiridos:
 
-| Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
-|-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        | Valores referente a média de todos os cargOs| 2560 | R$37 |R$94.720,00 |
-| Hardware                | Servidores; Computadores Pessoais; Dispositivos Móveis;| 4 servidores; 4 Computadores; 2 Dispositivos moveis||R$131.334,00|
-| Serviços de Rede        | internet 1Gb/s | 2560 | R$14,6 | R$51.450,00|
-| Hospedagem e Nuvem      | Hospedagem VPS (Servidor Virtual Privado)| 2928 | R$7,30 | R$21.374,40|
-| Software de terceiros   | Licenças, iOS, PlayStore, Microsoft Store| 2928 ||R$704,27|
-| Serviços e treinamento  | Treinamento em Tecnologia Realidade aumentada| 2928 | R$23,25 | R$68.076,00|
-| **Total Geral**         |||| R$367.658,67|
+#### Notebook para Desenvolvimento de Software:
+- **Memória RAM:** 32GB ou superior
+- **Armazenamento:** SSD 1TB ou superior
+- **GPU:** Dedicada, similar à RTX 3060 ou superior
+- **Suporte para tecnologia A.R.**
+- **Monitor:** 32" Full HD
+- **Periféricos diversos:** Teclado, mouse, etc.
+
+#### Licenças dos Softwares:
+- Windows
+- Microsoft Teams
+- Azure
+- Office
+
+#### Serviço de Hospedagem na Nuvem:
+- Azure
+
+#### Impressora Multifuncional:
+- Versátil e confiável, ideal para ambientes corporativos e profissionais.
+
+## Requisitos de Qualidade do Produto
+
+### Notebook para Desenvolvimento de Software:
+1. **Memória RAM de 32GB ou Superior:**
+   - Garantir capacidade suficiente para lidar com cargas de trabalho intensivas de desenvolvimento de software sem comprometer o desempenho.
+2. **SSD de 1TB ou Superior:**
+   - Assegurar tempos de inicialização rápidos, transferências de dados eficientes e desempenho ágil do sistema operacional e aplicativos.
+3. **GPU Dedicada:**
+   - Lidar com tarefas gráficas exigentes, como desenvolvimento de aplicativos de realidade aumentada, renderização 3D e computação de alto desempenho.
+4. **Suporte para Tecnologia de Realidade Aumentada (A.R.):**
+   - Garantir compatibilidade com tecnologias de realidade aumentada para executar aplicativos e ferramentas de desenvolvimento eficazmente.
+
+### Monitor de 32" Full HD:
+1. **Resolução Full HD (1920x1080 pixels):**
+   - Oferecer uma resolução nítida e detalhada para uma experiência de visualização imersiva e de alta qualidade.
+2. **Tamanho de 32" ou Superior:**
+   - Oferecer espaço de trabalho suficiente e conforto visual durante longas sessões de trabalho.
+
+### Periféricos Diversos (Teclado, Mouse, etc.):
+1. **Qualidade de Construção e Durabilidade:**
+   - Selecionar periféricos de alta qualidade, com materiais duráveis e construção robusta para garantir longevidade e confiabilidade.
+2. **Conforto de Uso:**
+   - Escolher periféricos ergonomicamente projetados para proporcionar conforto durante o uso prolongado, minimizando a fadiga e o desconforto.
+
+### Licenças de Softwares:
+1. **Licenças Originais e Atualizadas:**
+   - Adquirir licenças legítimas e atualizadas dos softwares necessários para o desenvolvimento de software, garantindo conformidade legal e acesso a recursos e atualizações mais recentes.
+
+### Serviço de Hospedagem na Nuvem:
+1. **Disponibilidade e Confiabilidade:**
+   - Selecionar um serviço de hospedagem na nuvem com alta disponibilidade e confiabilidade para garantir que os aplicativos e dados estejam sempre acessíveis e protegidos contra falhas e interrupções.
+
+### Impressora Multifuncional:
+1. **Qualidade de Impressão, Digitalização e Cópia:**
+   - Oferecer qualidade de impressão nítida e precisa, digitalização de alta resolução e reprodução fiel ao copiar documentos.
+2. **Conectividade e Funcionalidades Avançadas:**
+   - Possuir recursos de conectividade avançados, como Wi-Fi, Ethernet e suporte a serviços de impressão em nuvem, além de funcionalidades extras, como fax e integração com fluxos de trabalho digitais.
+
+## Cotações de Preço
+
+| Fornecedor             | Item                        | Valor unitário | Quantidade | Valor total |
+|------------------------|-----------------------------|----------------|------------|-------------|
+| DELL                   | Notebook                    | R$ 12.000,00   | 5          | R$ 60.000,00|
+| DELL                   | Monitor                     | R$ 2.000,00    | 5          | R$ 10.000,00|
+| Kabum                  | Periféricos                 | R$ 500,00      | 5          | R$ 2.500,00 |
+| Kabum                  | Impressora                  | R$ 2.500,00    | 1          | R$ 2.500,00 |
+| Amazon                 | Serviço de Hospedagem (AWS) | R$ 15.000,00   | 1          | R$ 15.000,00|
+| Microsoft              | Licenças                    | R$ 500,00      | 20         | R$ 10.000,00|
+
+## Aprovação
+
+| Funcionário        | Cargo/Setor        |
+|--------------------|--------------------|
+| Luan Carvalho      | Gerente            |
+| Gabriel El dine    | Diretor Financeiro |
+
 
 
 ## Estimativa de Prazo
